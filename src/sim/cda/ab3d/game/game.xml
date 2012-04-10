@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<game>
+    <id>CDA</id>
+    <name>CDA game</name>
+    <description>Continuous double auction game.</description>
+    <gameLen>[GAMELEN]</gameLen>
+    <totalAgents>[PLAYERS]</totalAgents>
+    <useAuctions>game/auctions.xml</useAuctions>
+    <prefTemplate>game/pref_template.xml</prefTemplate>
+    <aucidTemplate>game/aucid_template.xml</aucidTemplate>
+    <systemAgents>game/system_agents.xml</systemAgents>
+    <xslFile>game/game.xsl</xslFile>
+    <scorer>sim.cda.CDAGameScorer</scorer>
+</game>

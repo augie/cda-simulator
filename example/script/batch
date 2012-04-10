@@ -1,0 +1,6 @@
+#!/bin/bash
+module load java
+
+# RUN SIMULATOR
+# INPUTS: [simulation folder] [number of samples to gather]
+java -jar ./dist/cda-simulator.jar $@

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<getGameAuctionIDs>
+    <startTime>START_TIME</startTime>
+    <auctionIDs>
+        <list>
+            <ID>1</ID>
+        </list>
+    </auctionIDs>
+    <commandStatus>0</commandStatus>
+</getGameAuctionIDs>

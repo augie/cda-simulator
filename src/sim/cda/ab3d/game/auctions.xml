@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<useAuctions>
+    <gameid>CDA</gameid>
+    <list>
+        <auctionTuple>
+            <id>1</id>
+            <index>1</index>
+            <template>game/auction_template.xml</template>
+            <server>auctionServer1</server>
+            <sellers>0:1:2:3:4:5:6:7</sellers>
+            <buyers>8:9:10:11:12:13:14:15</buyers>
+        </auctionTuple>
+    </list>
+</useAuctions>

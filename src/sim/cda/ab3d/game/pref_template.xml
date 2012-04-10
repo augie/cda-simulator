@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<getGameParams>
+    <agent var="AGENTID" template="var"/>
+    <auctionValues>
+        <auction>
+            <id>1</id>
+            <value distribution="UNIFORM" template="distribution">
+                <params>
+                    <param index="1">61</param>
+                    <param index="2">260</param>
+                </params>
+            </value>
+            <value distribution="UNIFORM" template="distribution">
+                <params>
+                    <param index="1">61</param>
+                    <param index="2">260</param>
+                </params>
+            </value>
+            <value distribution="UNIFORM" template="distribution">
+                <params>
+                    <param index="1">61</param>
+                    <param index="2">260</param>
+                </params>
+            </value>
+            <value distribution="UNIFORM" template="distribution">
+                <params>
+                    <param index="1">61</param>
+                    <param index="2">260</param>
+                </params>
+            </value>
+            <value distribution="UNIFORM" template="distribution">
+                <params>
+                    <param index="1">61</param>
+                    <param index="2">260</param>
+                </params>
+            </value>
+            <value distribution="UNIFORM" template="distribution">
+                <params>
+                    <param index="1">61</param>
+                    <param index="2">260</param>
+                </params>
+            </value>
+            <value distribution="UNIFORM" template="distribution">
+                <params>
+                    <param index="1">61</param>
+                    <param index="2">260</param>
+                </params>
+            </value>
+            <value distribution="UNIFORM" template="distribution">
+                <params>
+                    <param index="1">61</param>
+                    <param index="2">260</param>
+                </params>
+            </value>
+            <value distribution="UNIFORM" template="distribution">
+                <params>
+                    <param index="1">61</param>
+                    <param index="2">260</param>
+                </params>
+            </value>
+            <value distribution="UNIFORM" template="distribution">
+                <params>
+                    <param index="1">61</param>
+                    <param index="2">260</param>
+                </params>
+            </value>
+        </auction>
+    </auctionValues>
+    <commandStatus>0</commandStatus>
+</getGameParams>
