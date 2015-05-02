@@ -1,3 +1,5 @@
-Simulation of a continuous double auction (CDA).
+Simulation of a continuous double auction (CDA) with a number of established agent strategy implementations.
 
 Process the results of the simulation using the scripts available at https://github.com/augie/cda-simulation-processor
+
+For additional background, see http://augiehill.com/blog/cda-strategies
